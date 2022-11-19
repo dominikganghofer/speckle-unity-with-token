@@ -64,7 +64,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1f51ad1405de4941a4519cb7ce261f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _connectButton: {fileID: 0}
   _receiveButton: {fileID: 1408848515277832418}
   _sendButton: {fileID: 1906894738232100377}
   _tokenInput: {fileID: 8370307757614193898}
@@ -268,7 +267,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
+  m_fontSize: 12
   m_fontSizeBase: 9
   m_fontWeight: 400
   m_enableAutoSizing: 0
